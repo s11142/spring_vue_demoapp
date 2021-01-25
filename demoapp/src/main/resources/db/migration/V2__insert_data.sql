@@ -1,0 +1,1 @@
+INSERT INTO currency(`name`, `symbol`, `amount`) VALUES ('Bitcoin', 'BTC', 0), ('Ethereum', 'ETH', 0);
